@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.col{
+  display: flex;
+}
+.modal-container{
+  position: absolute;
+  background: white;
+  padding: 2vh 2vw;
+}
+.modal-container h5{
+  text-align: center;
+}
+.check{
+  list-style: none;
+  padding-left: 0;
+}
